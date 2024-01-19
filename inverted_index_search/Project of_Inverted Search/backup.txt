@@ -1,0 +1,6 @@
+#1;bye;1;file1.txt;1;#
+#7;hi;1;file1.txt;1;#
+#7;hello;1;file1.txt;1;#
+#7;how;1;file1.txt;1;#
+#7;hey;1;file1.txt;1;#
+#14;oi;1;file1.txt;1;#
